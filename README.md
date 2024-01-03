@@ -1,4 +1,4 @@
-# Anti-Drug Education Metaverse
+
 
 Welcome to the repository for our gamified anti-drug education metaverse project!
 
